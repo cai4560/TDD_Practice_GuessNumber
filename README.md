@@ -1,2 +1,2 @@
 # TDD_Practice_GuessNumber
-TDD Practice of Mars Cover.
+TDD Practice of Guess Number.
